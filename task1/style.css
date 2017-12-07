@@ -1,0 +1,75 @@
+#upper{
+	height:37%;
+	background-color: silver;
+}
+#lower{
+	height:63%;
+	background-color: gray;
+}
+#dp_img{
+	border-radius: 100px;
+	height: 75%;
+	width: 15%;
+	margin-left: 10%;
+	margin-top: 2%;
+}
+#intro{
+	position: absolute;
+	margin-left: 28%;
+	top:6%;
+}
+#nav{
+	margin-top:20%;
+}
+#nav li{
+	list-style-type:none;
+	display:inline;
+	text-align:center;
+	padding:8px 10px 8px 10px;
+	font-size:17px;
+	background-color:gray;
+}
+#nav a{
+	text-decoration:none;
+	color:silver;
+}
+#nav a:hover{
+	color:white;
+}
+#media li{
+	list-style-type:none;
+	display:inline;
+	padding:8px 10px 8px 10px;
+	height: 17px;
+	border-radius: 100pc;
+}
+#media li img{
+	height: 30px;
+	border-radius: 100pc;
+}
+#skill{
+	margin-top: 1%;
+	width: 80%;
+	border: 2px solid silver;
+	height: 8%;
+	margin-left: 10%;
+	padding:8px 0px 0px 8px;
+}
+#bio{
+	position: absolute;
+	top: 50%;
+	width: 52.5%;
+	border: 2px solid silver;
+	height: 40%;
+	margin-left: 10%;
+	padding:8px 0px 0px 8px;
+}
+#names{
+	padding:8px 0px 0px 8px;
+	position: absolute;
+	border: 2px solid silver;
+	width: 25%;
+	left: 64.5%;
+	height: 40%;
+	top: 50%;
+}
